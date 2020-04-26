@@ -1,4 +1,6 @@
-input - 2 problems
+## Close enough traveling salesman problem
+
+### input - 2 problems
 
 ```
 2
